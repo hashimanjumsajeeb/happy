@@ -1,0 +1,14 @@
+nav li{ list-style: none;
+    display: inline; margin-top: 10px;
+}
+
+nav li :hover {
+    background-color: aquamarine; counter-increment: none;
+}
+nav li a{ text-decoration: solid;
+
+
+}
+
+
+
